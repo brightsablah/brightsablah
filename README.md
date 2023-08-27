@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hello 👋, I'm Bright Sablah</h1>
-<h3 align="center">An Engineering Student from Ghana.</h3>
+<h3 align="center">An Engineer from Ghana.</h3>
 
 <img align="right" alt="Programmer" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
