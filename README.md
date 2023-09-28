@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Software Engineering and Pen Testing**
 
-- 👯 I’m looking to collaborate on **DIY Arduino projects**
+- 👯 I’m looking to collaborate on **DIY IOT projects**
 
 - 💬 Ask me about **Arduino projects, Unmanned Aerial Vehicles, Computers**
 
