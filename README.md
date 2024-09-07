@@ -10,18 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightsablah&label=Profile%20views&color=0e75b6&style=flat" alt="brightsablah" /> </p>
 
-- 🔭 I’m currently working on **a 4WD smart robot car**
-
-- 🌱 I’m currently learning **Software Engineering and Pen Testing**
-
-- 👯 I’m looking to collaborate on **DIY IOT projects**
-
-- 💬 Ask me about **Arduino projects, Unmanned Aerial Vehicles, Computers**
-
-- 📫 How to reach me **https://linkedin.com/in/bright-sablah**
-
-- ⚡ Fun fact **With a background in Biology from High school, I earned an Aerospace Engineering Degree in the university while I repair computers and build simple IOT Devices. Now, I am learning Software Engineering and Pen-Testing 😁😁**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bright-sablah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bright-sablah" height="30" width="40" /></a>
