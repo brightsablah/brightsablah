@@ -33,6 +33,7 @@
 
 <br>
 
+<!-- UPDATE - REMOVE STATS
 <!-- github stats -->
 <!-- language usage stats -->
 <div align="center">
@@ -40,6 +41,8 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightsablah&show_icons=true&locale=en" alt="brightsablah" />
 </p>
 </div>
+-->
+
 
 <!-- github streak count -->
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah&" alt="brightsablah" /></p>
