@@ -39,13 +39,10 @@
 <!-- language usage stats --> 
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightsablah&show_icons=true&locale=en&layout=compact" alt="brightsablah" />
-</p>
-</div>
-
 
 <!-- github streak count -->
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah&" alt="brightsablah" /></p>
-
+</div>
 
 
 <!--
