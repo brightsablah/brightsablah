@@ -14,8 +14,9 @@
 
 
 
-<!-- commit count ranking -->
+<!-- commit count ranking
 [![committers.top badge](https://user-badge.committers.top/ghana_private/brightsablah.svg)](https://user-badge.committers.top/ghana_private/brightsablah)
+-->
 
 <!--profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightsablah&label=Profile%20views&color=0e75b6&style=flat" alt="brightsablah" /> </p>
@@ -33,22 +34,30 @@
 
 <br>
 
-<!-- UPDATE - REMOVE STATS
+
 <!-- github stats -->
-<!-- language usage stats -->
+<!-- language usage stats --> 
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightsablah&show_icons=true&locale=en&layout=compact" alt="brightsablah" />
+</p>
+</div>
+
+
+<!-- github streak count -->
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah&" alt="brightsablah" /></p>
+
+
+<!--
+
+
+<!-- github stats
+<!-- language usage stats 
 <div align="center">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightsablah&show_icons=true&locale=en&layout=compact" alt="brightsablah" />
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightsablah&show_icons=true&locale=en" alt="brightsablah" />
 </p>
 </div>
--->
 
-
-<!-- github streak count -->
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah&" alt="brightsablah" /></p>
-
-
-<!--
 
 | ![Image 1](https://via.placeholder.com/150) | ![Image 2](https://via.placeholder.com/150) |
 |:---:|:---:|
