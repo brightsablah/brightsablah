@@ -50,7 +50,7 @@
 <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightsablah&show_icons=true&locale=en&layout=compact" alt="brightsablah" />
 </div>
 <!-- github streak count -->
-<p align="center"><img align="right" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah&" alt="brightsablah" /></p>
+<p align="center"><img align="right" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah" alt="brightsablah" /></p>
 
 
 <!--
