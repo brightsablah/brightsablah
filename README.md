@@ -48,7 +48,7 @@
 
 
 <!-- github streak count -->
-<p align="right"><img align="right" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah" alt="brightsablah" /></p>
+<p align="left"><img align="left" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah" alt="brightsablah" /></p>
 
 
 <!--
