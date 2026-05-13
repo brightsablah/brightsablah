@@ -1,30 +1,8 @@
-
-<!--
-<h1 align="center">Hello 👋, I'm Bright</h1> 
-
-<h3 align="center"></h3>
--->
-
-
-
-<!-- webdev systems animation
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
--->
-
 <!-- programmer animation -->
 <img align="right" alt="Programmer" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-
-
-
-
-<!-- commit count ranking
-[![committers.top badge](https://user-badge.committers.top/ghana_private/brightsablah.svg)](https://user-badge.committers.top/ghana_private/brightsablah)
--->
-
 <!--profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightsablah&label=Profile%20views&color=0e75b6&style=flat" alt="brightsablah" /> </p>
-
 
 <!-- connect with me -->
 <h3 align="left">Connect with me:</h3>
@@ -39,17 +17,51 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
 </div>
-
-
-
 <br>
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brightsablah)](https://git.io/streak-stats)
 
 
-<!-- github streak count -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- commit count ranking
+[![committers.top badge](https://user-badge.committers.top/ghana_private/brightsablah.svg)](https://user-badge.committers.top/ghana_private/brightsablah)
+-->
+
+
+
+<!-- github streak count 
 <p align="left"><img align="left" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=brightsablah" alt="brightsablah" /></p>
-
+-->
 
 <!--
 
