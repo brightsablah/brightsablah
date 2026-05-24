@@ -20,12 +20,7 @@
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brightsablah)](https://git.io/streak-stats)
-
-
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats-one-azure.vercel.app?user=brightsablah)]([https://git.io/streak-stats](https://github-readme-streak-stats-one-azure.vercel.app/demo/))
 
 
 
